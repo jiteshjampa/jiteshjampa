@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hello, I'm Jitesh Reddy!
 
-🚀 **Full-Stack Developer | Web Enthusiast | Code Artisan**
+🚀 **Software Developer | Web Enthusiast | Code Artisan**
 
 🌐 Passionate about crafting amazing digital experiences and solving real-world problems through code. I specialize in web development, and my toolbox includes a mix of front-end and back-end technologies.
 
