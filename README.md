@@ -17,7 +17,7 @@
 
 📫 You can reach me at jampajitesh@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/jitesh-jampa-4b2701199/
 
-🏗️ Currently Learning prung batch and hibernate stay tuned for updates!
+🏗️ Currently Learning spring batch and hibernate stay tuned for updates!
 
 🚴‍♂️ When not coding, you'll find me cycling or exploring new technologies.
 
