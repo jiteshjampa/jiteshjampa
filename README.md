@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌟 Let's make the web a better place, one line of code at a time. Happy coding!
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is J Jitesh Reddy
+
 🚀 **Software Developer | Web Enthusiast | Code Artisan**
 
 🌐 Passionate about crafting amazing digital experiences and solving real-world problems through code. I specialize in web development, and my toolbox includes a mix of front-end and back-end technologies.
@@ -11,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🏗️ Currently Learning React Js and hibernate stay tuned for updates!
 
-🏗️ currently Working on IPL APP using React Js and Spring Boot (Full stack Application).
+🏗️ currently Working on IPL APP using React Js and Spring Boot (Full stack Application)!.
 
 🚴‍♂️ When not coding, you'll find me cycling or exploring new technologies.
 
