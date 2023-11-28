@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F-PfNcDgWrqZMfg5CZXBsEPSDYnq5FK2/view?usp=sharing](https://drive.google.com/file/d/1F-PfNcDgWrqZMfg5CZXBsEPSDYnq5FK2/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/lnoQV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
