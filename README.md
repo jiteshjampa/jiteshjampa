@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm J JITESH REDDY</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Developer from India</h3>
 <img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width=500>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshjampa&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshjampa" /> </p>
 
 - 🔭 I’m currently working on full stack project using Spring Boot and React JS **IPL Dashboard**
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/lnoQV)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F-PfNcDgWrqZMfg5CZXBsEPSDYnq5FK2/view?usp=sharing](https://drive.google.com/file/d/1F-PfNcDgWrqZMfg5CZXBsEPSDYnq5FK2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiteshjampa&show_icons=true&locale=en&layout=compact" alt="jiteshjampa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiteshjampa&show_icons=true&locale=en" alt="jiteshjampa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiteshjampa&" alt="jiteshjampa" /></p>
