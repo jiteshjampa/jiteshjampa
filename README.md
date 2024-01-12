@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/axHOS)
+- 📄 Know about my experiences [https://shorturl.at/hpqCG)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
