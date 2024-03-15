@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/hpqCG)
+- 📄 Know about my experiences [https://portfolio-git-master-jitesh-reddys-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
