@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **Java Backend , Web development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
