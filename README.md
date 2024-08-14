@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Software development || Full Stack Development**
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
