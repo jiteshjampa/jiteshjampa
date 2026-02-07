@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **Software development || Full Stack Development**
+- 💬 Ask me about **Machine Learning || Generative AI**
 
 - 📫 How to reach me **jampajitesh@gmail.com**
 
