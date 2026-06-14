@@ -9,7 +9,6 @@
 
 - 🎓 Pursuing **M.Tech** — focused on AI/ML and intelligent systems
 - 🤖 Building with **Machine Learning, Generative AI, and RAG pipelines**
-- 🔍 Interested in **B2B intelligence, intent scoring, and data-driven decision making**
 - 💼 Open to **AI/ML and SDE internship opportunities**
 - 💬 Ask me about **Machine Learning · Generative AI · Full Stack Development**
 - 📫 Reach me at **jampajitesh@gmail.com**
